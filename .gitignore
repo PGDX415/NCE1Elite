@@ -1,0 +1,26 @@
+# Xcode
+*.xcuserstate
+*.xcuserdatad
+DerivedData/
+build/
+*.mode2v3
+*.pbxuser
+!default.pbxuser
+*.moved-aside
+
+# Swift
+*.swiftpm
+
+# CocoaPods
+Pods/
+
+# Backup
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App (copyright content - do not commit)
+NCE1Elite/Resources/Audio/
+Resorces/
